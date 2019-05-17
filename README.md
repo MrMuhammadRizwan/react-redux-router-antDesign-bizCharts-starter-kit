@@ -1,7 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/PATsTx2.png" title="View tutorial" alt="React, React Router, Redux and Redux Thunk" width="900"></p>
 
 
-* [Demo](https://create-react-app-redux.now.sh) 🙌
 
 ## Installation
 
